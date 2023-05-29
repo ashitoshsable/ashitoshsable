@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Ashitosh Sable</h1>
 <h3>A passionate Designer & Web-developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img alt="Coder GIF" align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashitoshsable&label=Profile%20views&color=0e75b6&style=flat" alt="ashitoshsable" /> </p>
 
