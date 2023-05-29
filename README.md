@@ -18,7 +18,7 @@
 <a href="https://twitter.com/ashitosh_png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashitosh_png" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashitosh-sable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashitosh-sable" height="30" width="40" /></a>
 <a href="https://instagram.com/ashitosh.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashitosh.png" height="30" width="40" /></a>
-<a href="https://hashnode.com/ashitosh09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="ashitosh09" height="30" width="40" /></a>
+<a href="https://hashnode.com/@ashitosh09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="ashitosh09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashitoshsable09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashitoshsable09" height="30" width="40" /></a>
 </p>
 
