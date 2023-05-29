@@ -2,7 +2,6 @@
 
 <h1>Hi 👋, I'm Ashitosh Sable</h1>
 <h3>A passionate Designer & Web-developer from India</h3>
-<img alt="Coder GIF" align="right" alt="Coding" width="250" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashitoshsable&label=Profile%20views&color=0e75b6&style=flat" alt="ashitoshsable" /> </p>
 
